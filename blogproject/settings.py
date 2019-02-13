@@ -25,7 +25,7 @@ SECRET_KEY = 'y4=sfk8cat@(2k*5m25e+qdt_8f9qk$-t!cxz!bo^5zl18l$4x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','localhost','.bgzhou.com','114.115.133.14']
 
 
 # Application definition
